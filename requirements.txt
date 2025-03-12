@@ -1,0 +1,8 @@
+tenacity!=8.4.0
+langchain==0.3.20
+neo4j==5.27.0
+streamlit==1.35.0
+langchain-neo4j==0.1.1
+langchain-core~=0.3.40
+langchain-community==0.3.19
+sparkai==0.3.0
