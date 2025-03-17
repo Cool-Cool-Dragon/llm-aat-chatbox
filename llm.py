@@ -1,5 +1,4 @@
 import streamlit as st
-from sparkai.embedding.spark_embedding import Embeddingmodel
 from langchain_community.llms import SparkLLM
 # Create the LLM
 llm = SparkLLM(
