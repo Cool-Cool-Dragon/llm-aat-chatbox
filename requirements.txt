@@ -6,4 +6,4 @@ langchain-neo4j==0.1.1
 langchain-core~=0.3.40
 langchain-community==0.3.19
 sparkai==0.3.0
-websocket-client=1.8.0
+websocket-client==1.8.0
